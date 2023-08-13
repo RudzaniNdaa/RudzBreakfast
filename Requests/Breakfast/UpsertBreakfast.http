@@ -1,0 +1,12 @@
+PUT 
+//in adress above after PUT
+Content-Type: application/json
+
+{
+    "name": "Vegan Sunshine",
+    "description": "Vegan everything!",
+    "startDateTime": "2022-04-08T00:00:00",
+    "endDateTime": "2022-04-08T02:00:00",
+    "savory": ["Oatmeal", "Avocado Toast", "Omeltte", "Salad"],
+    "sweet": ["Cookie"],
+}
